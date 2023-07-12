@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{675BA2BB-2B63-4B1E-92F8-2E0EA945F1EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BE_GestionLotes</RootNamespace>
+    <AssemblyName>BE_GestionLotes</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.CodeParser.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v22.2.Core, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v22.2, Version=22.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\20-06-22\Proyecto GrupoHNG\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="eCampanha.cs" />
+    <Compile Include="eCiudades.cs" />
+    <Compile Include="eCliente.cs" />
+    <Compile Include="eCliente_CentroResponsabilidad.cs" />
+    <Compile Include="eCliente_Contactos.cs" />
+    <Compile Include="eCliente_Direccion.cs" />
+    <Compile Include="eCliente_Empresas.cs" />
+    <Compile Include="eCliente_Ubicacion.cs" />
+    <Compile Include="eContratos.cs" />
+    <Compile Include="eEmpresa.cs" />
+    <Compile Include="eFacturaProveedor.cs" />
+    <Compile Include="eFormatoDocumento.cs" />
+    <Compile Include="eLotesxProyecto.cs" />
+    <Compile Include="eMemoDes.cs" />
+    <Compile Include="eMessage.cs" />
+    <Compile Include="eProformas.cs" />
+    <Compile Include="eProspectosXLote.cs" />
+    <Compile Include="eProyectoEtapaManzana.cs" />
+    <Compile Include="eProyecto_Etapa.cs" />
+    <Compile Include="eGlobales.cs" />
+    <Compile Include="eJsonEmpresa.cs" />
+    <Compile Include="ePerfil.cs" />
+    <Compile Include="eProveedor.cs" />
+    <Compile Include="eProveedor_Contactos.cs" />
+    <Compile Include="eProveedor_CuentasBancarias.cs" />
+    <Compile Include="eProveedor_Empresas.cs" />
+    <Compile Include="eProveedor_Marca.cs" />
+    <Compile Include="eProveedor_Servicios.cs" />
+    <Compile Include="eProveedor_Tecnicos.cs" />
+    <Compile Include="eProyecto.cs" />
+    <Compile Include="eProyecto_Empresas.cs" />
+    <Compile Include="eReporteEvento.cs" />
+    <Compile Include="eReportes.cs" />
+    <Compile Include="eRUC_SUNAT.cs" />
+    <Compile Include="eSistema.cs" />
+    <Compile Include="eSolucion.cs" />
+    <Compile Include="eTipoCambio.cs" />
+    <Compile Include="eTipoGastoCosto.cs" />
+    <Compile Include="eTrabajador.cs" />
+    <Compile Include="eTreeProyEtaStatus.cs" />
+    <Compile Include="eUnidadNegocio.cs" />
+    <Compile Include="eUsuario.cs" />
+    <Compile Include="eUsuario_Empresas.cs" />
+    <Compile Include="eVariablesGenerales.cs" />
+    <Compile Include="eVentana.cs" />
+    <Compile Include="eVersion.cs" />
+    <Compile Include="eLotes_Separaciones.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\eCampanha.datasource" />
+    <None Include="Properties\DataSources\eContratos.eContratos_Observaciones.datasource" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

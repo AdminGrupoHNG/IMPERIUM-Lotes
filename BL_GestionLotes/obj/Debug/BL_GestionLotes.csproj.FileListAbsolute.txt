@@ -1,0 +1,315 @@
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll.config
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.pdb
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BE_GestionLotes.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DA_GestionLotes.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Security.AccessControl.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Security.Principal.Windows.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\WebDriver.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BE_GestionLotes.pdb
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DA_GestionLotes.pdb
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\WebDriver.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.AssemblyReference.cache
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CoreCompileInputs.cache
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CopyComplete
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.dll
+C:\Fuentes\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.pdb
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll.config
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\BL_GestionLotes.pdb
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\BE_GestionLotes.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DA_GestionLotes.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\Microsoft.Win32.Registry.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\Newtonsoft.Json.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\System.Security.AccessControl.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\System.Security.Principal.Windows.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\WebDriver.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\BE_GestionLotes.pdb
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DA_GestionLotes.pdb
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\Newtonsoft.Json.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\WebDriver.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.AssemblyReference.cache
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CoreCompileInputs.cache
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CopyComplete
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\obj\Debug\BL_GestionLotes.dll
+C:\IMPERIUM-GestionLotesV5\BL_GestionLotes\obj\Debug\BL_GestionLotes.pdb
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll.config
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.pdb
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BE_GestionLotes.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DA_GestionLotes.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\Microsoft.Win32.Registry.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\Newtonsoft.Json.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Security.AccessControl.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Security.Principal.Windows.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\WebDriver.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\BE_GestionLotes.pdb
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DA_GestionLotes.pdb
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\Newtonsoft.Json.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\WebDriver.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.AssemblyReference.cache
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CoreCompileInputs.cache
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CopyComplete
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.dll
+C:\David\IMPERIUM-Gestion Lotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.pdb
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll.config
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\BL_GestionLotes.pdb
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\BE_GestionLotes.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DA_GestionLotes.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\Microsoft.Win32.Registry.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\Newtonsoft.Json.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\System.Security.AccessControl.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\System.Security.Principal.Windows.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\WebDriver.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\BE_GestionLotes.pdb
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DA_GestionLotes.pdb
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\Newtonsoft.Json.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\WebDriver.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.AssemblyReference.cache
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CoreCompileInputs.cache
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CopyComplete
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\obj\Debug\BL_GestionLotes.dll
+C:\IMPERIUM-Gestion Lotes Luis\BL_GestionLotes\obj\Debug\BL_GestionLotes.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll.config
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\BL_GestionLotes.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\BE_GestionLotes.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DA_GestionLotes.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\Newtonsoft.Json.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\System.Security.AccessControl.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\System.Security.Principal.Windows.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\WebDriver.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\BE_GestionLotes.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DA_GestionLotes.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\Newtonsoft.Json.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\OpenQA.Selenium.Winium.pdb
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\WebDriver.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.AssemblyReference.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CoreCompileInputs.cache
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.csproj.CopyComplete
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.dll
+C:\Fuentes\Grupo HNG\Fuentes\Proyecto IMPERIUM-Software\IMPERIUM-GestionLotes\BL_GestionLotes\obj\Debug\BL_GestionLotes.pdb

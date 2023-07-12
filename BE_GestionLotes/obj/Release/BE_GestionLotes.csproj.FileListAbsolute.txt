@@ -1,0 +1,9 @@
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\bin\Release\BE_GestionLotes.dll
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\bin\Release\BE_GestionLotes.pdb
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\obj\Release\BE_GestionLotes.csproj.AssemblyReference.cache
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\obj\Release\BE_GestionLotes.csproj.CoreCompileInputs.cache
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\obj\Release\BE_GestionLotes.dll
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\obj\Release\BE_GestionLotes.pdb
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\bin\Release\Newtonsoft.Json.dll
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\bin\Release\Newtonsoft.Json.xml
+C:\Users\CHRISTIAN RAMOS\OneDrive - GRUPO HNG CORPORACION S.A.C\Documentos\GESTION LOTES REPO V3\BE_GestionLotes\obj\Release\BE_GestionLotes.csproj.CopyComplete

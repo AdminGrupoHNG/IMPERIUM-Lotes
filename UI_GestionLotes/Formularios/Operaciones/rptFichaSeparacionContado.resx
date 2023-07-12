@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="xrLabel10.Text" xml:space="preserve">
+    <value> -  Con la firma del presente documento el cliente acepta recibir, a través de su teléfono, celular, correo electrónico, comunicaciones de publicidad del proyecto de la empresa, así como autoriza que los datos proporcionados puedan ser utilizados por las empresas que conforman del grupo empresarial del cual pertenece la empresa.</value>
+  </data>
+  <data name="xrLabel7.Text" xml:space="preserve">
+    <value> -  El cliente queda obligado a conservar y acreditar la constancia de pago utilizada para la cancelación del monto de separación, teniendo que enviar por correo electrónico o whatsapp una copia de la constancia de pago a su asesor comercial para que realice la validación respectiva en un plazo de dos (02) días hábiles y bloquee el terreno. La constancia de pago debe indicar el número de operación, cuenta bancaria de destino, fecha de pago y ser nitida/legible.</value>
+  </data>
+  <data name="xrLabel6.Text" xml:space="preserve">
+    <value> -  En caso de desistimiento de compra, es decir, al no pago de cancelación total o el no pago de la cuota inicial en el plazo indicado, la empresa dejará sin efecto la presente oferta y el 100% del valor pagado como separación NO SERÁ REEMBOLSADO.</value>
+  </data>
+  <data name="xrLabel5.Text" xml:space="preserve">
+    <value> -  La cancelación total o el pago de la cuota inicial debe ser realizado dentro de los siguientes 10 días calendarios de abonada la separación. Pasado este tiempo la empresa puede volver a colocar                a la venta el terreno separado y NO GARANTIZA la disponibilidad de este.</value>
+  </data>
+  <data name="sqlDataPagoContado.ResultSchemaSerializable" xml:space="preserve">
+    <value>PERhdGFTZXQgTmFtZT0ic3FsRGF0YVBhZ29Db250YWRvIj48VmlldyBOYW1lPSJ1c3BfbHRlX0NvbnN1bHRhX0xpc3RhckZvcm1hdG9TZXBhcmFjacOzbiI+PEZpZWxkIE5hbWU9ImRzY19lbXByZXNhIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImRzY19ydWMiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iZHNjX2RpcmVjY2lvbiIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJudW1fc2VwYXJhY2lvbiIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfY2xpZW50ZSIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfZG9jdW1lbnRvIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImZjaF9uYWNpbWllbnRvIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImNvZF9lc3RhZG9jaXZpbCIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfZXN0YWRvX2NpdmlsIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImRzY19wcm9mZXNpb24iIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iZHNjX2RpcmVjY2lvbl8xIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImRzY19lbWFpbCIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfdGVsZWZvbm9fMSIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfY29ueXVndWUiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iZHNjX2RvY3VtZW50b19jb255dWdlIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImZjaF9uYWNpbWllbnRvX2Nvbnl1Z2UiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iY29kX2VzdGFkb2NpdmlsX2Nvbnl1Z2UiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iZHNjX3Byb2Zlc2lvbl9jb255dWdlIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImRzY19kaXJlY2Npb25fY29ueXVnZSIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfZW1haWxfY29ueXVnZSIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfdGVsZWZvbm9fMV9jb255dWdlIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9Im51bV9ldGFwYSIgVHlwZT0iSW50MzIiIC8+PEZpZWxkIE5hbWU9ImRzY19tYW56YW5hIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9Im51bV9sb3RlIiBUeXBlPSJJbnQzMiIgLz48RmllbGQgTmFtZT0ibnVtX2FyZWFfdWV4IiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImRzY19mb3JtYV9wYWdvIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImltcF9wcmVjaW9fdG90YWwiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0icHJjX2Rlc2N1ZW50byIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJpbXBfcHJlY2lvX2Nvbl9kZXNjdWVudG8iIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iaW1wX3ByZWNpb19maW5hbCIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJpbXBfc2VwYXJhY2lvbiIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJpbXBfY3VvdGFfaW5pY2lhbCIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJudW1fY3VvdGFzIiBUeXBlPSJJbnQzMiIgLz48RmllbGQgTmFtZT0icHJjX2ludGVyZXMiIFR5cGU9IlN0cmluZyIgLz48RmllbGQgTmFtZT0iZHNjX2ZjaF9TZXBhcmFjaW9uIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImltcF92YWxvcl9jdW90YSIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJmY2hfdmN0X2N1b3RhIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImRzY19vYnNlcnZhY2lvbiIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2Nfbm9tYnJlcyIgVHlwZT0iU3RyaW5nIiAvPjxGaWVsZCBOYW1lPSJkc2NfbWFpbF8xIiBUeXBlPSJTdHJpbmciIC8+PEZpZWxkIE5hbWU9ImRzY19jZWx1bGFyIiBUeXBlPSJTdHJpbmciIC8+PC9WaWV3PjwvRGF0YVNldD4=</value>
+  </data>
+</root>
